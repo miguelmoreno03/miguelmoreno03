@@ -10,7 +10,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Miguel Angel Moreno';
   title    = 'Backend Developer';
   location = 'Colombia , Bogotá';
-   tools = [ 'Node','VisualStudioCode', 'InteliJ','Swagger' 'Docker' , 'Postman' ];
+  tools = [ 'Node','VisualStudioCode', 'InteliJ','Swagger' 'Docker' , 'Postman' ];
   architecture = ["microservices", SPA, "design  patterns"],
 }
 
