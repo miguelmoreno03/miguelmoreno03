@@ -10,12 +10,12 @@ class Bio extends SoftwareDeveloper {
   name     = 'Miguel Angel Moreno';
   title    = 'Backend Developer';
   location = 'Colombia , Bogotá';
-   tools = [ 'Node', 'Storybook', 'Docker' , 'Postman' ];
-  architecture = ["microservices", "event-driven", "design  patterns"],
+   tools = [ 'Node','VisualStudioCode', 'InteliJ','Swagger' 'Docker' , 'Postman' ];
+  architecture = ["microservices", SPA, "design  patterns"],
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Java' , 'Go'];
+  languages  = ['JavaScript', 'Java' , 'Go','HTML5','CSS3'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'React Native', 'Springboot', 'Junit' , 'Selenium', 'Mockito' , 'RestAsure'];
 }
