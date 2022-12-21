@@ -9,8 +9,7 @@ import SoftwareDeveloper from 'miguelmoreno';
 class Bio extends SoftwareDeveloper {
   name     = 'Miguel Angel Moreno';
   title    = 'Backend Developer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  location = 'Colombia , Bogotá';
 }
 
 class Skills extends SoftwareDeveloper {
@@ -19,6 +18,9 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Springboot', 'Junit' , 'Selenium', 'Mockito' , 'RestAsure'];
 }
 ```
+[![Linkedin: MiguelMoreno](https://img.shields.io/badge/-miguelmoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-moreno-08017a202/)](https://www.linkedin.com/in/miguel-angel-moreno-08017a202/)
+
+
 
 
 
