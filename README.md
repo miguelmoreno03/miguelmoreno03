@@ -10,6 +10,8 @@ class Bio extends SoftwareDeveloper {
   name     = 'Miguel Angel Moreno';
   title    = 'Backend Developer';
   location = 'Colombia , Bogotá';
+   tools = [ 'Node', 'Storybook', 'Docker' , 'Postman' ];
+  architecture = ["microservices", "event-driven", "design  patterns"],
 }
 
 class Skills extends SoftwareDeveloper {
@@ -18,7 +20,18 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Springboot', 'Junit' , 'Selenium', 'Mockito' , 'RestAsure'];
 }
 ```
+## About me 
+
+- :earth_americas: I'm from Bogotá - Colombia
+- :video_game: I like to play video games
+- :gem: I love to always been learning new things
+
+
+## Social media :mailbox_with_no_mail:
+
+
 [![Linkedin: MiguelMoreno](https://img.shields.io/badge/-miguelmoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-moreno-08017a202/)](https://www.linkedin.com/in/miguel-angel-moreno-08017a202/)
+[![Email](https://img.shields.io/badge/miguelangelmorenomogollon@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelangelmorenomogollon@gmail.com)
 
 
 
